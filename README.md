@@ -16,6 +16,9 @@ and now we save 4 `glimmer-vm` opcodes!
 
 ----
 
+*** IT MAY INCREASE TEMPLATE SIZE ***
+----
+
 Compatibility
 ------------------------------------------------------------------------------
 
