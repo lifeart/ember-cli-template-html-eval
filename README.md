@@ -1,8 +1,20 @@
 ember-cli-template-html-eval
 ==============================================================================
 
-[Short description of the addon.]
+Why do we need opcodes for static html elements?
 
+```hbs
+<div><a> hello <a></div>
+```
+will be compiled to 
+
+```hbs
+{{{'<div><a> hello <a></div>'}}}
+```
+
+and now we save 4 `glimmer-vm` opcodes!
+
+----
 
 Compatibility
 ------------------------------------------------------------------------------
