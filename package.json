@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-template-html-eval",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Addon transform templates to skip opcodes for static parts",
   "keywords": [
     "ember-addon"
