@@ -22,7 +22,8 @@
   },
   "dependencies": {
     "calculate-cache-key-for-tree": "^2.0.0",
-    "ember-cli-babel": "*"
+    "ember-cli-babel": "*",
+    "ember-meta-explorer": "0.0.33"
   },
   "devDependencies": {
     "@ember/optional-features": "^0.7.0",
